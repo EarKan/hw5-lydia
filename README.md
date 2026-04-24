@@ -31,4 +31,4 @@ applies any modifier, and prints individual rolls, the total, and a frequency su
 - Maximum 100 dice, 1000 sides
 
 ## Video walkthrough
-[]
+[https://youtu.be/sTHt33lC3Is]
